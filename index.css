@@ -1,0 +1,154 @@
+body {
+    background-color: rgb(241, 239, 239);
+    display: block;
+
+}
+
+.patient {
+color: rgb(173, 173, 173);
+font-weight: 350;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.container {
+  padding: 2%;
+
+}
+
+.Card {
+    display: flex;
+    font-size: large;
+}
+
+
+.card1 {
+    margin-top: 10px;
+    color: rgb(173, 173, 173);
+}
+
+.card2{
+    margin-top: 10px;
+    margin-left: 39vh;
+    color: black; 
+    font-size: medium;
+
+}
+
+b {
+    color: black;
+
+}
+.coh{word-spacing: 141px;
+    font-size: medium;
+    color: rgb(173, 173, 173);
+    margin-top: 10px; 
+
+}
+.h2 {
+    background-color:aliceblue;
+    display: flex;
+}
+.container_up {
+    background-color: white;
+    border-radius: 2px;
+    width: 61vh;
+    position: center;
+padding-left: 1%;
+border-radius: 5px;
+
+
+}
+
+.main {
+    padding-left: 2%;
+}
+.text1 {
+    width: 62vh;
+    height: 5vh;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 4px;
+    border-width: 1px;
+    border-radius: 05px;
+    border-color:rgb(173, 173, 173) ;
+  
+}
+
+.top {
+    display: flex;
+    justify-content: space;
+    gap: 55px;
+}
+
+.task {
+    font-weight: 450;
+    color: rgb(173, 173, 173);
+}
+
+.button1{
+background-color: rgb(48, 197, 247);
+width: auto;
+height: 30px;
+margin-top: 17px;
+border-radius: 5px;
+border-width: 0;
+color: white;
+border-color: rgb(48, 197, 247) ;
+}
+
+.but {
+background-color: white;
+width: 62vh;
+    height: 5vh;
+    transition-duration: 0.4s;
+    cursor: pointer;
+font-weight: 700;
+}
+
+
+.but {
+    background-color: white; 
+    color: rgb(55, 178, 226); 
+    border: 2px solid  rgb(48, 197, 247);
+    border-radius: 05px;
+}
+
+.but:hover {
+    background-color: rgb(216, 243, 252);
+}
+
+.cards {
+    background-color: white;
+    border-radius: 4px;
+    width: 62vh;
+    padding-left: 4px;
+   
+
+}
+.cards1 {
+    display: flex;
+    gap: 41vh;
+    position: center;
+border-radius: 5px;
+
+
+}
+.button2{
+    width: auto;
+height: 30px;
+border-radius: 5px;
+margin-top: 4vh;
+background-color: white;
+border-color: rgb(192, 191, 191);
+border-width: 2px;
+border-style: solid;
+}
+
+p{
+    color: rgb(173, 173, 173); 
+    font-style: italic;
+    display: flex;
+    padding-bottom: 5px;
+margin-bottom: 15vh;
+}
