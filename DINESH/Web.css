@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color:white;
+    display: block;
+}
+
+.Entry {
+    width: 100%;
+    height: 20vh;
+    display: flex;justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding-left: 20%;
+
+}
+
+.Edit {
+    color: white;
+    text-decoration: none;
+}
